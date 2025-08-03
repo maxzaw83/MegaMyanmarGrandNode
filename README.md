@@ -1,15 +1,14 @@
 # 🛒 MegaMyanmar — GrandNode E-Commerce Store
 
-A modern, feature-rich, and scalable eCommerce platform built with **GrandNode (ASP.NET Core + MongoDB)**. Designed for rapid customization, SEO optimization, 
-and mobile-first responsiveness, MegaMyanmar offers a complete foundation for building professional online stores tailored to Myanmar-based businesses and global audiences.
-I am going to release soon a simplfy E-Commerce version for Asp.net core junior developers with Ntier Architechture with mysqlDB since it was build on entity framework, you can swift to any DB. 
-As my client is a small start up, I use mysql. 
+A modern, feature-rich, and scalable eCommerce platform built with GrandNode (ASP.NET Core + MongoDB). Designed for rapid customization, SEO optimization, and mobile-first responsiveness, MegaMyanmar offers a solid foundation for building professional online stores tailored to both Myanmar-based businesses and global audiences.
+
+I will also be releasing a simplified eCommerce version soon, specifically designed for ASP.NET Core junior developers, using N-Tier architecture with MySQL as the database. Since it is built on Entity Framework, you can easily switch to any supported database provider. For this project, I chose MySQL to accommodate the needs of my client, a small startup.
 
 Front End User Screenshots
 ![MegaMyanmar Screenshot](https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/s1.jpg)
 (https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/s2.jpg)
 (https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/s2.jpg)
-(https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/s3.jpg)
+
 
 Backend Admin Screenshots
 (https://raw.githubusercontent.com/maxzaw83/maxzaw/refs/heads/main/public/images/a1.jpg)
